@@ -1,0 +1,124 @@
+{
+  "Paises": [
+    {
+      "id": 1,
+      "Nombre": "Colombia",
+      "Capital": "Bogota",
+      "Territorio": "1139 millones Km²",
+      "CantidadEstados": 32,
+      "Estados": ["Norte de Santander", "Cundinamarca", "Putumayo"],
+      "imagen": "https://drive.google.com/uc?id=15ADBkAHh7tqOjEcfSDZqs86umYkUDGu-",
+      "url": "https://es.wikipedia.org/wiki/Colombia"
+    },
+    {
+      "id": 2,
+      "Nombre": "Venezuela",
+      "Capital": "Caracas",
+      "Territorio": "0,9 millones Km²",
+      "CantidadEstados": 23,
+      "Estados": ["Carabobo", "Lara", "Yaracuy"],
+      "imagen": "https://drive.google.com/uc?id=1N9FrOcxilY60RAxS-qAXEsbHAUM__Isf",
+      "url": "https://es.wikipedia.org/wiki/Venezuela"
+    },
+    {
+      "id": 3,
+      "Nombre": "Ecuador",
+      "Capital": "Quito",
+      "Territorio": "0,3 millones Km²",
+      "CantidadEstados": 24,
+      "Estados": ["Cañar", "Carchi", "Guayas"],
+      "imagen": "https://drive.google.com/uc?id=1lwc5HlFROCGzLrzE5sdW5riQ9TEFNbRQ",
+      "url": "https://es.wikipedia.org/wiki/Ecuador"
+    },
+    {
+      "id": 4,
+      "Nombre": "Egipto",
+      "Capital": "El Cairo",
+      "Territorio": "1001 millones Km²",
+      "CantidadEstados": 27,
+      "Estados": ["Alejandría", "Damietta", "Sinaí Septentrional"],
+      "imagen": "https://drive.google.com/uc?id=1pLWm2tZeVKL3PLvn-RnP6kSj9vPnWhNn",
+      "url": "https://es.wikipedia.org/wiki/Egipto"
+    },
+    {
+      "id": 5,
+      "Nombre": "Senegal",
+      "Capital": "Dakar",
+      "Territorio": "0,2 millones Km²",
+      "CantidadEstados": 14,
+      "Estados": ["Kolda", "Matam", "Sédhiou"],
+      "imagen": "https://drive.google.com/uc?id=1lQJ8fde3JWp4Te4x4Oge8ULxgsGKAJ4d",
+      "url": "https://es.wikipedia.org/wiki/Senegal"
+    },
+    {
+      "id": 6,
+      "Nombre": "Etiopía",
+      "Capital": " Adís Abeba",
+      "Territorio": "1112 millones Km²",
+      "CantidadEstados": 10,
+      "Estados": ["Tigray", "Gambela", "Sidama"],
+      "imagen": "https://drive.google.com/uc?id=1iQhCkvxba3IX5rgiPzTtFJs4ig395fiT",
+      "url": "https://es.wikipedia.org/wiki/Etiopía"
+    },
+    {
+      "id": 7,
+      "Nombre": "Bélgica",
+      "Capital": " Bruselas",
+      "Territorio": "0.03 millones Km²",
+      "CantidadEstados": 10,
+      "Estados": ["Amberes", "Luxemburgo", "Henao"],
+      "imagen": "https://drive.google.com/uc?id=1-k49IkwLnYXnQfQNDjsJcAZSzx5tSGAT",
+      "url": "https://es.wikipedia.org/wiki/Bélgica"
+    },
+    {
+      "id": 8,
+      "Nombre": "Francia",
+      "Capital": "París",
+      "Territorio": "0,6 millones Km²",
+      "CantidadEstados": 18,
+      "Estados": ["Aquitania", "Bretaña", "Corse"],
+      "imagen": "https://drive.google.com/uc?id=1QPl4ew6xUcfAqj4Mko1Z8q7WyH7Mu46o",
+      "url": "https://es.wikipedia.org/wiki/Francia"
+    },
+    {
+      "id": 9,
+      "Nombre": "Alemania",
+      "Capital": "Berlín",
+      "Territorio": "0,4 millones Km²",
+      "CantidadEstados": 16,
+      "Estados": ["Bremen", "Niedersachsen", "Hamburg"],
+      "imagen": "https://drive.google.com/uc?id=1ndIbsMbKKk6SRc6P3RNSQ6cY5AiHEWRG",
+      "url": "https://es.wikipedia.org/wiki/Alemania"
+    },
+    {
+      "id": 10,
+      "Nombre": "Nueva Zelanda",
+      "Capital": "Wellington",
+      "Territorio": "0,3 millones Km²",
+      "CantidadEstados": 16,
+      "Estados": ["Northland", "Gisborne", "Otago"],
+      "imagen": "https://drive.google.com/uc?id=1adtlvJ0z6qiK0GiV6K1gA69FUeR-xqsE",
+      "url": "https://es.wikipedia.org/wiki/Nueva_Zelanda"
+    },
+    {
+      "id": 11,
+      "Nombre": "Australia",
+      "Capital": "Canberra",
+      "Territorio": "7688 millones Km²",
+      "CantidadEstados": 6,
+      "Estados": ["Queensland", "Tasmania", "Victoria"],
+      "imagen": "https://drive.google.com/uc?id=1uyH6DJxHbFlRNHGoawG1IdN8T5d66kmX",
+      "url": "https://es.wikipedia.org/wiki/Australia"
+    },
+    {
+      "id": 12,
+      "Nombre": "Fiyi",
+      "Capital": "Suva",
+      "Territorio": "0,001 millones Km²",
+      "CantidadEstados": 5,
+      "Estados": ["Levuka", "Labasa", "Lautoka"],
+      "imagen": "https://drive.google.com/uc?id=1RAw3S8qimx7SjzGP-Fx7QOB3rJKSeLx9",
+      "url": "https://es.wikipedia.org/wiki/Fiyi"
+    }
+  ]
+}
